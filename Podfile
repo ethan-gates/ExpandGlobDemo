@@ -14,5 +14,5 @@ target 'ExpandGlobDemo' do
   use_frameworks!
 
   # Pods for ExpandGlobDemo
-  pod 'AppCenter/Distribute', '4.1.1'
+  pod 'AppCenter/Distribute', '4.3.0'
 end

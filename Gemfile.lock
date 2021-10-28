@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/bazel-ios/cocoapods-bazel.git
   revision: f9a6a9364409ffc8f10a2e91171929c8cc372692
-  branch: master
+  tag: v0.1.2
   specs:
     cocoapods-bazel (0.1.2)
       starlark_compiler (~> 0.3)
@@ -98,7 +98,7 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
-  cocoapods
+  cocoapods (= 1.10.2)
   cocoapods-bazel!
 
 BUNDLED WITH

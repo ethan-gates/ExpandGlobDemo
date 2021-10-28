@@ -1,18 +1,18 @@
 PODS:
-  - AppCenter/Core (4.1.1)
-  - AppCenter/Distribute (4.1.1):
+  - AppCenter/Core (4.3.0)
+  - AppCenter/Distribute (4.3.0):
     - AppCenter/Core
 
 DEPENDENCIES:
-  - AppCenter/Distribute (= 4.1.1)
+  - AppCenter/Distribute (= 4.3.0)
 
 SPEC REPOS:
   trunk:
     - AppCenter
 
 SPEC CHECKSUMS:
-  AppCenter: cd53e3ed3563cc720bcb806c9731a12389b40d44
+  AppCenter: 883369ab78427b0561c688158d689dfe1f993ea9
 
-PODFILE CHECKSUM: 1ceb00c5b22fdf24ea88beef7880411678a0705b
+PODFILE CHECKSUM: d22d777c134c050ae214b6eeb3aea02f3113808a
 
 COCOAPODS: 1.10.2
